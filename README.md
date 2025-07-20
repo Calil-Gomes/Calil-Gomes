@@ -1,13 +1,7 @@
-<div align="center">
- <!-- <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  /> -->
-  <img width="278" height="352" alt="image" src="https://github.com/user-attachments/assets/afd3b052-9d8f-41bc-a068-c84744ae8d78" />
-
-</div>
 
 ###
-
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" link="linkedin.com/in/calil-cavalcante-ba0872182"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" href="linkedin.com/in/calil-cavalcante-ba0872182"  />
 
 </div>
 
